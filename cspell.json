@@ -1,0 +1,28 @@
+{
+  "version": "0.2",
+  "language": "en",
+  "words": [
+    "easymail",
+    "mailsec",
+    "neteng",
+    "nojekyll",
+    "NWPRO",
+    "protonmail"
+  ],
+  "ignorePaths": [
+    ".gitignore",
+    ".gitattributes",
+    "**/build/**",
+    "**/.cache/**",
+    "**/node_modules/**"
+  ],
+  "ignoreWords": [],
+  "enableFiletypes": [
+    "javascript",
+    "typescript",
+    "json",
+    "markdown",
+    "html"
+  ],
+  "useGitignore": true
+}
